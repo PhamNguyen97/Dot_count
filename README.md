@@ -15,4 +15,6 @@ Counting number of dots on dices
 # Tools
 - numpy
 - opencv
+# Source 
+Detect_dice.py
 
