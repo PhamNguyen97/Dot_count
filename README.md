@@ -12,7 +12,7 @@ Counting number of dots on dices
 # Output
 ![Alt text](Screen_shot/output.png?raw=true "OUTPUT")
 
-# tools
+# Tools
 - numpy
 - opencv
 
